@@ -1,4 +1,4 @@
-#### Source for "Creating default user initial avatars in PHP 7"
+## Source for "Creating default user initial avatars in PHP 7"
 
 This is the source for my dev.to [post]. ✍️
 
